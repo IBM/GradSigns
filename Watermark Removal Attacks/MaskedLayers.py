@@ -1,3 +1,6 @@
+##### This code works on Keras version 2.2.4 with Tensorflow nightly version 1.14.1-dev20190402
+
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
