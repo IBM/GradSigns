@@ -1,4 +1,6 @@
 
+##### This code works on Keras version 2.2.4 with Tensorflow nightly version 1.14.1-dev20190402
+
 import keras
 from keras.optimizers import Adam,SGD
 from keras import backend as K
